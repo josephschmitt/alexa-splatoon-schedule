@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "SplatoonMaps"
+    },
+    {
+      "intent": "SplatoonMapsByType",
+      "slots": [
+        {
+          "name": "MapType",
+          "type": "MapType"
+        }
+      ]
+    },
+    {
+      "intent": "SplatoonMapRotation"
+    },
+    {
+      "intent": "Splatfest"
+    }
+  ]
+}

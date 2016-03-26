@@ -1,0 +1,28 @@
+SplatoonMaps what the current maps are
+SplatoonMaps what are the current maps
+SplatoonMaps current maps
+SplatoonMaps what are the maps
+SplatoonMaps maps
+SplatoonMaps tell me about the maps
+SplatoonMaps tell me about the current maps
+
+SplatoonMapsByType what the current {MapType} maps are
+SplatoonMapsByType what are current {MapType} maps
+SplatoonMapsByType about {MapType} maps
+SplatoonMapsByType {MapType} maps
+
+SplatoonMapRotation when is the next map rotation
+SplatoonMapRotation when is the next rotation
+SplatoonMapRotation whens the next map rotation
+SplatoonMapRotation whens the next rotation
+SplatoonMapRotation when are the maps changing
+SplatoonMapRotation when are the maps updating
+SplatoonMapRotation next maps
+SplatoonMapRotation when will the maps change
+SplatoonMapRotation when will the maps update
+SplatoonMapRotation when the maps change
+
+Splatfest is it splatfest
+Splatfest if it is splatfest
+Splatfest if its splatfest
+Splatfest splatfest
