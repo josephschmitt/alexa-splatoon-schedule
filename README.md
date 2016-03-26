@@ -30,7 +30,8 @@ command line.
 
 To set up the skill, head on over to [Alexa skills kit
 development console](https://developer.amazon.com/edw/home.html) and add a new skill. Fill in the
-basic skill information however you choose, then head on over to Interaction Model. In the Intent
+basic skill information however you choose. For Endpoint, you'll need to fill in your Lambda ARN
+which you'll get in the next step. Next, head on over to Interaction Model. In the Intent
 Schema field, copy and paste the contents of the `interaction_model/intent_schema.json` file. Then
 in the Sample Utterances field, copy and paste the contents of
 `interaction_model/sample_utterances.txt`. Finally, add a new Slot Type, again copying and pasting
