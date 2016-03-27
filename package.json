@@ -1,7 +1,7 @@
 {
-  "name": "splatoon2",
+  "name": "alexa-splatoon-schedule",
   "version": "1.0.0",
-  "description": "",
+  "description": "A skill to ask Alexa the current schedule for online maps on Splatoon.",
   "main": "index.js",
   "dependencies": {
     "alexa-app": "^2.3.2",
